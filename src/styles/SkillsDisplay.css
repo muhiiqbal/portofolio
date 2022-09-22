@@ -1,0 +1,28 @@
+.skills {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.skills h1 {
+  margin-top: 50px;
+  color: #3e497a;
+  font-size: 35px;
+}
+.skills img {
+  width: 380px;
+  border-radius: 10px;
+}
+
+.skills p {
+  font-size: 40px;
+  color: #3e497a;
+}
+
+.skills svg {
+  font-size: 60px;
+  color: #3e497a;
+}
